@@ -31,7 +31,7 @@ This repository serves as the **official issue tracker** for the WRKSPACE privat
      - Environment details (browser, operating system, etc.)
 
 2. **Request a Feature:**
-   - Have an idea to improve WRKSPACE? [Submit a feature request](https://github.com/wrkspace-co/wrkspace/issues/new) and include:
+   - Have an idea to improve Wrkspace? [Submit a feature request](https://github.com/wrkspace-co/wrkspace/discussions/new) and include:
      - A clear and concise description of your idea
      - Any supporting examples or mockups
 
